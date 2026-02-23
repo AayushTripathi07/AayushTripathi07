@@ -1,130 +1,197 @@
-# Hi, I'm Aayush Tripathi 👋  
+# Aayush Tripathi
 
-🎓 B.Tech – Computer Science & Engineering  
-📊 Data Science | AI | Machine Learning | LLM Systems  
-🧬 Interested in AI for Genomics, CRISPR & Intelligent Systems  
-
----
-
-## 🚀 About Me
-
-I build data-driven systems and intelligent AI solutions that solve real-world problems.  
-My work focuses on Machine Learning, Large Language Models, Time-Series Forecasting, and Intelligent Recommendation Systems.
+Computer Science Engineer | Data & AI Systems Builder  
+Building intelligent systems across ML, GenAI, Analytics, and Full-Stack Applications.
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+I design and build end-to-end data and AI systems — from raw data ingestion and feature engineering to model deployment and business insight generation.
 
-### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge)
+My work spans:
 
-### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+- Machine Learning & Predictive Modeling
+- Generative AI Systems (LLMs + Retrieval)
+- Time Series Forecasting
+- Business Intelligence & Analytics
+- Mobile + Backend ML Integration
+- Core Systems Programming
 
-### 🌐 Web & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+I focus on practical, production-oriented solutions rather than isolated notebooks.
 
 ---
 
-## 📌 Featured Projects
+## Selected Projects
 
-### 📈 Advanced Stock Price Prediction System
-- Hybrid ARIMA + LSTM architecture
-- Sentiment-based transformer integration
-- RMSE / MAE evaluation metrics
-- End-to-end preprocessing & feature engineering
-- Time-series forecasting with ACF & PACF analysis
+### Trader Sentiment Analysis
+Quantitative trading behavior analysis using market sentiment data.
 
----
+- Merged trader-level transaction data with Bitcoin Fear/Greed index
+- Engineered rolling PnL, volatility, behavioral features
+- Built Gradient Boosting model with time-based validation
+- Generated strategy recommendations based on sentiment regimes
 
-### 🤖 SHL Assessment Recommendation Engine
-- NLP-based job description parsing
-- Intelligent mapping to SHL product catalog
-- Supports natural language input
-- Structured output with assessment attributes
+Tech: Python, Pandas, Scikit-learn, Feature Engineering
 
 ---
 
-### 🧠 Memory Network + Generative Dialogue System
-- Implemented LSTM-based generative model
-- Trained on Cornell Movie Dialogues dataset
-- Built memory-based QA architecture
-- Focus on contextual reasoning
+### AI Resume Builder & LinkedIn Intelligence System
+LLM-powered resume analysis and job role recommendation engine.
+
+- PDF parsing and semantic chunking
+- Embeddings + FAISS vector search
+- AI-generated summary, strengths, weaknesses
+- Job role suggestions aligned with resume profile
+
+Tech: Python, Gemini API, LangChain, FAISS, Flask/Streamlit
 
 ---
 
-### 🚌 Automated Bus Scheduling & Route Optimization System
-- Algorithmic duty scheduling (linked & unlinked)
-- Route management optimization
-- Data analytics & GIS integration
-- Designed for scalable transport management
+### AI Fact Checker
+Claim extraction and verification system using LLM + live web search.
+
+- Extracts factual claims from PDFs
+- Uses web search to gather supporting evidence
+- Classifies claims as Verified / Inaccurate / False
+- Streamlit deployment-ready application
+
+Tech: Python, Streamlit, Gemini, Serper API
 
 ---
 
-## 📊 GitHub Analytics
+### Customer Lifetime Value Prediction
+End-to-end ML pipeline from MySQL ETL to CLV regression.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+- RFM feature engineering
+- Random Forest Regressor
+- Model evaluation using RMSE & R²
+- Business-focused feature importance insights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🔥 Contribution Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+Tech: Python, MySQL, SQLAlchemy, Scikit-learn
 
 ---
 
-## 📚 Research Interests
+### StockVision
+Comparative time-series forecasting using ARIMA and LSTM.
 
-- AI in Genomics & CRISPR Applications  
-- Time Series Forecasting & Financial AI  
-- Large Language Models & Memory-Augmented Networks  
-- Explainable AI & Model Optimization  
+- Statistical vs Deep Learning model comparison
+- RMSE & MAE evaluation
+- Historical price preprocessing & normalization
+- Visual analysis of predicted vs actual prices
 
----
-
-## 📈 Currently Learning
-
-- Advanced Transformer Architectures  
-- Financial Market Microstructure  
-- Hybrid ML Systems  
-- Scalable AI Deployment  
+Tech: ARIMA, LSTM, TensorFlow, yfinance
 
 ---
 
-## 🏆 Leadership & Experience
+### Breast Cancer Prediction
+Healthcare ML classification using Wisconsin dataset.
 
-- Chairperson – Data Science Society  
-- Data Science & Analysis Intern  
-- Built Multiple Production-Level ML Systems  
+- Logistic Regression, SVM, Random Forest, Neural Networks
+- PCA dimensionality reduction
+- Cross-validation and AUC-ROC evaluation
+- Model performance benchmarking
 
----
-
-## 📫 Connect With Me
-
-📧 Email: aayushtripathi07@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-📄 Resume: Add your resume link here  
+Tech: Scikit-learn, ML Pipelines
 
 ---
 
-## 👀 Profile Views
+### Flight Price Prediction
+Feature-engineered regression model for airline price forecasting.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+- Extensive datetime and duration feature extraction
+- Random Forest with hyperparameter tuning
+- Achieved R² ≈ 0.81
+- Model persistence via pickle
+
+Tech: Python, Scikit-learn
 
 ---
 
-> “Building intelligent systems that combine data, logic, and learning.”
+### Marketing Campaign ROI Analysis
+SQL + Tableau business analytics project.
+
+- ROI calculation: (Revenue - Spend) / Spend
+- Channel-level aggregation
+- Interactive dashboards for executive insights
+
+Tech: MySQL, SQL, Tableau
+
+---
+
+### PulsePro
+Power BI-based HR analytics dashboard.
+
+- Workforce demographics and retention insights
+- Strategic workforce planning analytics
+- Executive-level reporting
+
+Tech: Power BI
+
+---
+
+### Caress
+Flutter-based mental health companion app with ML backend.
+
+- Real-time vitals monitoring via Google Fit
+- Stress prediction model via Flask REST API
+- Alert system and emergency notifications
+- Firebase authentication & data storage
+
+Tech: Flutter, Firebase, Flask, ML Integration
+
+---
+
+### PayEase
+Java-based fees management system.
+
+- Automated fee calculations
+- Real-time financial reporting
+- Secure payment gateway integration
+- Modular architecture via NetBeans
+
+Tech: Java, NetBeans
+
+---
+
+### AcademEase
+C++ student record management system.
+
+- Authentication system
+- CRUD operations
+- Unique ID tracking
+- File-based persistence
+- Modular console architecture
+
+Tech: C++, File Handling
+
+---
+
+## Technical Stack
+
+Languages  
+Python · C++ · Java · SQL · Dart  
+
+Machine Learning  
+Scikit-learn · ARIMA · LSTM · Random Forest · Gradient Boosting  
+
+Generative AI  
+LLMs · Embeddings · Vector Search · Retrieval-Augmented Systems  
+
+Data Engineering  
+MySQL · SQLAlchemy · ETL Pipelines · Feature Engineering  
+
+Visualization  
+Power BI · Tableau · Matplotlib  
+
+Frameworks & Tools  
+Flask · Streamlit · Firebase · Flutter · Git  
+
+---
+
+## Contact
+
+Email: aayushtripathi07@gmail.com  
+LinkedIn: https://www.linkedin.com/in/aayush0712/
+
+---
