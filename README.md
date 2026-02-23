@@ -1,191 +1,124 @@
 # Aayush Tripathi
 
-Computer Science Engineer | Data & AI Systems Builder  
-Building intelligent systems across ML, GenAI, Analytics, and Full-Stack Applications.
+Data Analyst | Data Scientist | AI/ML Engineer | GenAI Systems Builder
+
+Building data-driven systems — from analytics dashboards to LLM-powered applications.
 
 ---
 
-## About
+## About Me
 
-I design and build end-to-end data and AI systems — from raw data ingestion and feature engineering to model deployment and business insight generation.
+I work across the full data lifecycle:
 
-My work spans:
+• Data Cleaning & Feature Engineering  
+• Exploratory Data Analysis (EDA)  
+• Machine Learning & Predictive Modeling  
+• Time Series Forecasting  
+• Business Intelligence & Dashboards  
+• Large Language Model (LLM) Applications  
 
-- Machine Learning & Predictive Modeling
-- Generative AI Systems (LLMs + Retrieval)
-- Time Series Forecasting
-- Business Intelligence & Analytics
-- Mobile + Backend ML Integration
-- Core Systems Programming
-
-I focus on practical, production-oriented solutions rather than isolated notebooks.
+I focus on building end-to-end, reproducible, and production-oriented systems.
 
 ---
 
-## Selected Projects
+## Core Projects
 
-### Trader Sentiment Analysis
-Quantitative trading behavior analysis using market sentiment data.
+### 🔹 Trader Performance vs Market Sentiment Analysis
+Behavioral finance + ML prediction system.
 
-- Merged trader-level transaction data with Bitcoin Fear/Greed index
-- Engineered rolling PnL, volatility, behavioral features
-- Built Gradient Boosting model with time-based validation
-- Generated strategy recommendations based on sentiment regimes
+- Merged trader transaction data with Bitcoin sentiment index  
+- Engineered rolling PnL, volatility, behavioral features  
+- Time-based validation  
+- Gradient Boosting profitability prediction  
 
-Tech: Python, Pandas, Scikit-learn, Feature Engineering
-
----
-
-### AI Resume Builder & LinkedIn Intelligence System
-LLM-powered resume analysis and job role recommendation engine.
-
-- PDF parsing and semantic chunking
-- Embeddings + FAISS vector search
-- AI-generated summary, strengths, weaknesses
-- Job role suggestions aligned with resume profile
-
-Tech: Python, Gemini API, LangChain, FAISS, Flask/Streamlit
+Tech: Python, Pandas, Scikit-learn  
 
 ---
 
-### AI Fact Checker
-Claim extraction and verification system using LLM + live web search.
+### 🔹 AI Resume Builder & LinkedIn Intelligence
+LLM-powered resume analysis and job-role recommendation.
 
-- Extracts factual claims from PDFs
-- Uses web search to gather supporting evidence
-- Classifies claims as Verified / Inaccurate / False
-- Streamlit deployment-ready application
+- PDF parsing & semantic chunking  
+- Embeddings + FAISS vector search  
+- Resume scoring & structured feedback  
+- Job role suggestions via LLM reasoning  
 
-Tech: Python, Streamlit, Gemini, Serper API
-
----
-
-### Customer Lifetime Value Prediction
-End-to-end ML pipeline from MySQL ETL to CLV regression.
-
-- RFM feature engineering
-- Random Forest Regressor
-- Model evaluation using RMSE & R²
-- Business-focused feature importance insights
-
-Tech: Python, MySQL, SQLAlchemy, Scikit-learn
+Tech: Python, Gemini API, LangChain, FAISS  
 
 ---
 
-### StockVision
-Comparative time-series forecasting using ARIMA and LSTM.
+### 🔹 AI Fact Checker
+Document-based claim extraction + web-verified reasoning.
 
-- Statistical vs Deep Learning model comparison
-- RMSE & MAE evaluation
-- Historical price preprocessing & normalization
-- Visual analysis of predicted vs actual prices
+- LLM-based claim extraction  
+- Web retrieval integration  
+- Verified / Inaccurate / False classification  
+- Streamlit deployment  
 
-Tech: ARIMA, LSTM, TensorFlow, yfinance
-
----
-
-### Breast Cancer Prediction
-Healthcare ML classification using Wisconsin dataset.
-
-- Logistic Regression, SVM, Random Forest, Neural Networks
-- PCA dimensionality reduction
-- Cross-validation and AUC-ROC evaluation
-- Model performance benchmarking
-
-Tech: Scikit-learn, ML Pipelines
+Tech: Python, Streamlit, Gemini, RAG pipeline  
 
 ---
 
-### Flight Price Prediction
-Feature-engineered regression model for airline price forecasting.
+### 🔹 Customer Lifetime Value Prediction
+End-to-end ML pipeline from MySQL to regression model.
 
-- Extensive datetime and duration feature extraction
-- Random Forest with hyperparameter tuning
-- Achieved R² ≈ 0.81
-- Model persistence via pickle
+- RFM feature engineering  
+- Random Forest regression  
+- Feature importance insights  
+- Business-driven modeling  
 
-Tech: Python, Scikit-learn
+Tech: Python, MySQL, SQLAlchemy, Scikit-learn  
 
 ---
 
-### Marketing Campaign ROI Analysis
+### 🔹 StockVision
+Time-series forecasting using ARIMA & LSTM.
+
+- Statistical vs Deep Learning comparison  
+- RMSE & MAE evaluation  
+- Sequential modeling & normalization  
+
+Tech: ARIMA, LSTM, TensorFlow  
+
+---
+
+### 🔹 Marketing Campaign ROI Analysis
 SQL + Tableau business analytics project.
 
-- ROI calculation: (Revenue - Spend) / Spend
-- Channel-level aggregation
-- Interactive dashboards for executive insights
+- ROI calculation  
+- Channel performance aggregation  
+- Interactive dashboard reporting  
 
-Tech: MySQL, SQL, Tableau
-
----
-
-### PulsePro
-Power BI-based HR analytics dashboard.
-
-- Workforce demographics and retention insights
-- Strategic workforce planning analytics
-- Executive-level reporting
-
-Tech: Power BI
+Tech: MySQL, SQL, Tableau  
 
 ---
 
-### Caress
-Flutter-based mental health companion app with ML backend.
+## Technical Skills
 
-- Real-time vitals monitoring via Google Fit
-- Stress prediction model via Flask REST API
-- Alert system and emergency notifications
-- Firebase authentication & data storage
+### Languages
+Python · SQL · C++ · Java · Dart  
 
-Tech: Flutter, Firebase, Flask, ML Integration
+### Data & ML
+Pandas · NumPy · Scikit-learn · Random Forest · Gradient Boosting · ARIMA · LSTM  
 
----
+### GenAI & LLM
+Prompt Engineering · Embeddings · Vector Search · FAISS · RAG Systems  
 
-### PayEase
-Java-based fees management system.
-
-- Automated fee calculations
-- Real-time financial reporting
-- Secure payment gateway integration
-- Modular architecture via NetBeans
-
-Tech: Java, NetBeans
-
----
-
-### AcademEase
-C++ student record management system.
-
-- Authentication system
-- CRUD operations
-- Unique ID tracking
-- File-based persistence
-- Modular console architecture
-
-Tech: C++, File Handling
-
----
-
-## Technical Stack
-
-Languages  
-Python · C++ · Java · SQL · Dart  
-
-Machine Learning  
-Scikit-learn · ARIMA · LSTM · Random Forest · Gradient Boosting  
-
-Generative AI  
-LLMs · Embeddings · Vector Search · Retrieval-Augmented Systems  
-
-Data Engineering  
-MySQL · SQLAlchemy · ETL Pipelines · Feature Engineering  
-
-Visualization  
+### Visualization
 Power BI · Tableau · Matplotlib  
 
-Frameworks & Tools  
-Flask · Streamlit · Firebase · Flutter · Git  
+### Backend & Tools
+Flask · Streamlit · Firebase · Git · MySQL  
+
+---
+
+## Current Focus
+
+• Advanced Feature Engineering  
+• LLM Applications & Retrieval Systems  
+• Time Series Modeling  
+• Financial & Behavioral Analytics  
+• Scalable ML Pipelines  
 
 ---
 
@@ -195,3 +128,5 @@ Email: aayushtripathi07@gmail.com
 LinkedIn: https://www.linkedin.com/in/aayush0712/
 
 ---
+
+Data → Models → Insights → Intelligent Systems
