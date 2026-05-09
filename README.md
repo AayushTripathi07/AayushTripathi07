@@ -163,7 +163,7 @@ HR analytics dashboard & workforce insights
   <a href="https://www.linkedin.com/in/aayush0712/">
     <img src="https://img.shields.io/badge/LinkedIn-AayushTripathi-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:aayushtripathi07@gmail.com">
+  <a href="mailto:aayushtripathi271@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
